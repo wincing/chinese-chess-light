@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!intro.jpg
+!README.md
+
+!/master/assets
+!/master/settings
+!/master/project.json
+
+!/ranking/assets
+!/ranking/settings
+!/ranking/project.json
