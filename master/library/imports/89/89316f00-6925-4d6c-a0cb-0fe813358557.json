@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3_shuai",
+    "texture": "45d0875a-d963-4ca4-aad3-344d758bd495",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      506,
+      872
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      506,
+      872
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

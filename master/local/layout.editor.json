@@ -1,0 +1,101 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -76,
+      "y": 0,
+      "width": 1282,
+      "height": 680,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 241.7916717529297,
+                "type": "panel",
+                "width": 350
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 331.7083435058594,
+                "type": "panel",
+                "width": 350
+              }
+            ],
+            "height": 576.5,
+            "type": "dock-v",
+            "width": 350
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 576.5,
+            "type": "panel",
+            "width": 475
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ],
+            "height": 576.5,
+            "type": "panel",
+            "width": 449
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "scene",
+        "inspector",
+        "cocos-services"
+      ]
+    },
+    "worker": {}
+  },
+  "panels": {
+    "builder": {
+      "x": 508,
+      "y": 48,
+      "width": 516,
+      "height": 740
+    },
+    "preferences": {
+      "x": 476,
+      "y": 148,
+      "width": 603,
+      "height": 567
+    },
+    "sprite-editor": {
+      "x": 508,
+      "y": 148,
+      "width": 516,
+      "height": 540
+    },
+    "console": {
+      "x": 430,
+      "y": 160,
+      "width": 420,
+      "height": 338
+    }
+  },
+  "panelLabelWidth": {
+    "builder": null,
+    "inspector": null
+  }
+}
